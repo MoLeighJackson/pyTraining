@@ -1,0 +1,10 @@
+print ("Hello, world!")
+
+a, b = 5, 1
+if a < b:
+    print('a ({}) is less than be ({})'.format(a, b))
+
+else:
+    print('a ({}) is not less than b({})'.format(a,b))
+
+print
